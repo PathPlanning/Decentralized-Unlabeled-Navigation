@@ -1,0 +1,4 @@
+success  collision  collision_obst   makespan   flowtime    runtime     mean_groups     mean_groups_size     number
+      1          0               0    132.400    329.500      0.551           9.483                 1.06         10
+      1          0               0    110.300    435.600      1.134          13.870                 1.45         20
+      1          0               0     83.100    643.400      1.661          20.795                 1.45         30

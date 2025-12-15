@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<root>
+	<experiment>
+		<timestep>0.1</timestep>
+		<xy_goal_tolerance>0.3</xy_goal_tolerance>
+		<max_steps>20000</max_steps>
+	</experiment>
+	<algorithm name="thetastar_alg"/>
+	<algorithm name="ctp_swap_alg"/>
+	<algorithm name="orca_alg">
+		<timestep>0.1</timestep>
+		<sight_radius>3.0</sight_radius>
+		<agents_max_num>10</agents_max_num>
+		<time_boundary>3.0</time_boundary>
+		<time_boundary_obst>3.0</time_boundary_obst>
+		<r_eps>0.15</r_eps>
+		<max_speed>1.0</max_speed>
+	</algorithm>
+</root>

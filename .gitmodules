@@ -1,0 +1,21 @@
+[submodule "cpp_utils/libs/pybind11"]
+	path = cpp_utils/libs/pybind11
+	url = git@github.com:pybind/pybind11.git
+[submodule "cpp_utils/libs/rvo2"]
+	path = cpp_utils/libs/rvo2
+	url = git@github.com:snape/RVO2.git
+[submodule "cpp_utils/libs/xtl"]
+	path = cpp_utils/libs/xtl
+	url = git@github.com:xtensor-stack/xtl.git
+[submodule "cpp_utils/libs/xtensor-python"]
+	path = cpp_utils/libs/xtensor-python
+	url = git@github.com:xtensor-stack/xtensor-python.git
+[submodule "cpp_utils/libs/xtensor-blas"]
+	path = cpp_utils/libs/xtensor-blas
+	url = git@github.com:xtensor-stack/xtensor-blas.git
+[submodule "cpp_utils/libs/xtensor"]
+	path = cpp_utils/libs/xtensor
+	url = git@github.com:xtensor-stack/xtensor.git
+[submodule "cpp_utils/libs/xsimd"]
+	path = cpp_utils/libs/xsimd
+	url = git@github.com:xtensor-stack/xsimd.git

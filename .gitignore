@@ -1,0 +1,8 @@
+__pycache__
+launching/img/*.mp4
+build/
+experiment_utils.egg-info/
+gen_scripts/movingai_maps/*.map
+gen_scripts/tasks/**/*.xml
+processing/
+.DS_Store
