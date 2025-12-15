@@ -1,0 +1,6 @@
+ctp_swap.egg-info
+*.so
+__pycache__
+build*
+.vscode
+.DS_Store
